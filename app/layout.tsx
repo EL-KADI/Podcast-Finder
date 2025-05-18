@@ -11,7 +11,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "PodcastFinder - Discover Amazing Podcasts",
   description: "Find and explore podcasts using AllFeeds.ai API",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
